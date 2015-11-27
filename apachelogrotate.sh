@@ -1,5 +1,5 @@
 #!/bin/bash
-#Author: Biranchi 
+#Author: Biranchi Mohanty
 #Desc: Moving files to /vol/logprocessor/prod/raw/bkup directory
 BACKUP_DIR="/vol/logprocessor/prod/raw/bkup"
 FILE_FORMAT=$(date +%Y.%m.%d.%I)
